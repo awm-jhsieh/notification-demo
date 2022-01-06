@@ -1,0 +1,8 @@
+{
+  "short_name": "Send Notification Demo",
+  "name": "Send Notification Demo",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
